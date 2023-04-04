@@ -1,5 +1,9 @@
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
-.card-container{
-    display:flex;
-    justify-content:center;
-}
+
+
+.card-container {
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
